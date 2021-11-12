@@ -2,8 +2,8 @@
       
       "show": true,
       "CheckR": true,
-      "com": false,
-      "published": false,
+      "com": true,
+      "published": true,
       
       "version": 1,
       "newAppLink": "com.Trailmix.LoveAndPiesMerges",
@@ -18,7 +18,7 @@
       "nbOrnAds":"mix",
       
       "med":false,
-      "NativeCount": 3,
+      "NativeCount": 2,
       
       "showOnlyOpen":false,
       
@@ -42,14 +42,14 @@
         "admb_openad": "ca-app-pub-3940256099942544/3419835294"
       },
       
-      "onBackOpenAds":false,
+      "onBackOpenAds":true,
       "admbNbOrB":"nb",
       
       
       
-      "unity": false,
+      "unity": true,
       "adsunity": {
-        "unity_id": "3667089s",
+        "unity_id": "3667089",
         "unity_inters": "video"
       }
     }
